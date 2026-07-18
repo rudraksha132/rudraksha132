@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![header](https://raw.githubusercontent.com/rudraksha132/rudraksha132/refs/heads/main/image.jpg)](https://rudraksha132.github.io)
+<!-- [![header](https://raw.githubusercontent.com/rudraksha132/rudraksha132/refs/heads/main/image.jpg)](https://rudraksha132.github.io) -->
