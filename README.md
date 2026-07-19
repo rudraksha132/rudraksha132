@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="image.jpg" alt="https://rudraksha132.github.io" width="720" height="">
+  <img src="image.jpg" alt="https://rudraksha132.github.io" width="680">
 </p>
