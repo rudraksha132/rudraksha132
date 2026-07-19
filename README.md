@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![header](image.jpg)](https://rudraksha132.github.io)
+<p align="center">
+  <img src="image.jpg" alt="https://rudraksha132.github.io" width="720">
+</p>
